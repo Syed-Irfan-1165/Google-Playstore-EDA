@@ -2,7 +2,7 @@
 
 # Google Playstore Exploratory Data Analysis
 
-![1657557 (1)](https://user-images.githubusercontent.com/123230589/213849144-d0039eae-2cb6-4ccc-9353-e559f9371174.jpg)
+![pngfind com-google-play-logo-png-488760 (1)](https://user-images.githubusercontent.com/123230589/213849193-168f942e-e5c4-4162-ad9e-274fa2bc2e77.png)
 
 The Google Play Store is a digital marketplace for mobile apps on the Android operating system. These apps now significantly influence how we live our lives. The goal of this project is to provide information that will assist developers better understand client needs and, in turn, help the product become more well-known. This includes analyzing the relationship between app ratings and download numbers, identifying the most popular app categories, or exploring the sentiment of app reviews. The project also includes visualizations to help communicate the findings and insights.
 
@@ -71,4 +71,4 @@ These are the general conclusions that may be drawn from an EDA on the Google Pl
     6. Majority of review sentiment is positive, with neutral reviews making up the smallest percentage.
     7. After looking at the percentage of sentiments for the top 3 apps, it is discovered that the health and fitness category had the most positive sentiments, whilst the game app category received the most negative.
 
-![pngfind com-google-play-logo-png-488760 (1)](https://user-images.githubusercontent.com/123230589/213849193-168f942e-e5c4-4162-ad9e-274fa2bc2e77.png)
+![1657557 (1)](https://user-images.githubusercontent.com/123230589/213849144-d0039eae-2cb6-4ccc-9353-e559f9371174.jpg)
