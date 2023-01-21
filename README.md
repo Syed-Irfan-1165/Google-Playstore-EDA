@@ -71,5 +71,5 @@ These are the general conclusions that may be drawn from an EDA on the Google Pl
     6. Majority of review sentiment is positive, with neutral reviews making up the smallest percentage.
     7. After looking at the percentage of sentiments for the top 3 apps, it is discovered that the health and fitness category had the most positive sentiments, whilst the game app category received the most negative.
 
-![wp2860538-google-logo-black-background](https://user-images.githubusercontent.com/123230589/213854240-491e8243-fbfd-4417-85fc-5df3c9d6b7d3.jpg)
+![pngfind com-google-play-logo-png-488760 (1)](https://user-images.githubusercontent.com/123230589/213855080-b4a9a14f-3655-4246-8059-8f7ef8fbd02b.png)
 
