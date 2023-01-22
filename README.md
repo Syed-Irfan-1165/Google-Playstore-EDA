@@ -57,7 +57,7 @@ To run this project, you will need to have the following packages installed:
 # Usage
 
     * Clone the repository
-    * Run the jupyter notebook google_playstore_eda.ipynb
+    * Run the Jupyter/Colab notebook google_playstore_eda.ipynb
 
 # Conclusion
 
